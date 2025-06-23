@@ -1,0 +1,16 @@
+<!doctype html>
+<html >
+  <head>
+    
+  </head>
+
+  <body class="gift-card">
+    <header>
+      <div class="gift-card__text-wrapper">
+        <h2>Test</h2>
+      </div>
+    </header>
+    <div id="app"></div>
+    <script src="https://hub-frontend.endotaspa.com.au/production/retreat/js/main202505211051.js" defer></script>
+  </body>
+</html>
